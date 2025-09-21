@@ -1,0 +1,38 @@
+h1 {
+    color: red;
+    margin: 20px;
+}
+
+h2 {
+    color: rgb(86, 219, 86);
+}
+
+ol {
+    line-height: 35px;
+}
+
+
+ul {
+    color: rgb(180, 27, 27);
+    letter-spacing: 5px;
+}
+
+.element1 {
+    color: rgb(169, 55, 55);
+    font-size: 19px;
+}
+
+.element2 {
+    color: rgb(150, 30, 30);
+    font-size: 9px;
+}
+
+.element3 {
+    color: brown;
+    font-style: italic;
+}
+
+a {
+    color: brown;
+    text-decoration: none;
+}
